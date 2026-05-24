@@ -12,3 +12,4 @@ no-openmp:
 
 clean:
 	rm -f $(TARGET)
+Y
